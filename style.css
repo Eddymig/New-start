@@ -12,7 +12,7 @@
 .container1{
     display: grid;
     grid-template-columns: 1fr;
-    width: 180px;
+    width: 181px;
     height: 178px;
 }
 
